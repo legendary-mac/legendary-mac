@@ -1,4 +1,4 @@
-Hello!!! I am Mac, a passionate CTF player who is the member of Team Onigiri. We are bunch of teenagers who wants to become cybersecurity specialists in the future! Please support us on our journey!!
+Hello!!! I am Mac, a former captain of Team Onigiri. Now a proud member of team Capablanca
 
 <!---
 legendary-mac/legendary-mac is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
